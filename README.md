@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  Hi there I'm Boomie
-</div>
+<h1 align="center">Hi there I'm Boomie 👋</h1>
 =================================
 
 I'm a 4th-year Computer Engineering student at Rajamangala University of Technology Isan. I’m passionate about frontend development and UX/UI design.
