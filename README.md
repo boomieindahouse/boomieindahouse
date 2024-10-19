@@ -1,9 +1,6 @@
 Hi 👋 My name is Bhum Prawitsanat
 =================================
 
-Web Developer and UX/UI Designer
---------------------------------
-
 I'm a 4th-year Computer Engineering student at Rajamangala University of Technology Isan. I’m passionate about frontend development and UX/UI design.
 
 * 🌍  I'm based in Thailand
