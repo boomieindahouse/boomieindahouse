@@ -13,7 +13,7 @@ I'm a 4th-year Computer Engineering student at Rajamangala University of Technol
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomieindahouse&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boomieindahouse&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   <a href="https://readme-jokes.vercel.app">
     <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
   </a>
