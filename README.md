@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhum Prawitsanat
+Hi there 👋 I'm Boomie
 =================================
 
 I'm a 4th-year Computer Engineering student at Rajamangala University of Technology Isan. I’m passionate about frontend development and UX/UI design.
