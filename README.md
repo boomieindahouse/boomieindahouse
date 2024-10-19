@@ -18,7 +18,7 @@ I'm a 4th-year Computer Engineering student at Rajamangala University of Technol
 
 
 <div style="display: flex; align-items: center;">
-  <img align="center" src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=libre_baskerville&quote=I+cut+my+hair+because+you+don't+care+my+heart." alt="Github Readme Daily Quotes" />
+  <img align="center" src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=libre_baskerville&quote=The+future+is+shaped+by+your+dreams,+so+stop+wasting+your+time+and+go+to+sleep!" alt="Github Readme Daily Quotes" />
   <a align="center" href="https://github.com/kittinan/spotify-github-profile">
     <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31phswnw4vmb4qrxhqzglqcwbr4e&cover_image=true&theme=novatorem&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
