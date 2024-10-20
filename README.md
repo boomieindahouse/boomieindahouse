@@ -1,7 +1,7 @@
 <h1 align="center">Hi there I'm Boomie 👋</h1>
-
+<!--- 
 I'm a 4th-year Computer Engineering student at Rajamangala University of Technology Isan. I’m passionate about frontend development and UX/UI design.
-
+--->
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [prawitsanat@hotmail.com](mailto:prawitsanat@hotmail.com)
 
