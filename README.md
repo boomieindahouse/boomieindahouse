@@ -16,7 +16,7 @@ I'm a 4th-year Computer Engineering student at Rajamangala University of Technol
   <img align="center" src="https://github.com/boomieindahouse/prawit-portfolio/blob/main/src/assets/img/avt-programming.png?raw=true" alt="Alt Text" style="width: 500px; height: auto;" />
 </div> */
 --->
-Check my portfolio. [Demo](https://elboomie.vercel.app)
+Check my portfolio. [Click Click!](https://elboomie.vercel.app)
 <div style="display: flex; align-items: center;">
   <img align="center" src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=libre_baskerville&author=Sir+Gareth+Northgate&quote=The+future+is+shaped+by+your+dreams,+so+stop+wasting+your+time+and+go+to+sleep!" alt="Github Readme Daily Quotes" />
   <!--- 
