@@ -1,6 +1,6 @@
 ## Hi there, I'm Boomie 👋  
 I'm a 4th-year Computer Engineering student at **Rajamangala University of Technology Isan**, based in Thailand 🇹🇭  
-I’m passionate about **Frontend Development**, **UX/UI Design**, and turning ideas into real products.  
+I’m passionate about **Fullstack Development**, **UX/UI Design**, and turning ideas into real products.  
 
 🌐 Portfolio → [elboomie.vercel.app](https://elboomie.vercel.app)  
 📫 Contact → [prawitsanat@hotmail.com](mailto:pawitsanat@gmail.com)  
