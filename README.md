@@ -3,7 +3,7 @@ I'm a 4th-year Computer Engineering student at **Rajamangala University of Techn
 I’m passionate about **Frontend Development**, **UX/UI Design**, and turning ideas into real products.  
 
 🌐 Portfolio → [elboomie.vercel.app](https://elboomie.vercel.app)  
-📫 Contact → [prawitsanat@hotmail.com](mailto:prawitsanat@hotmail.com)  
+📫 Contact → [prawitsanat@hotmail.com](mailto:pawitsanat@gmail.com)  
 
 ---
 
