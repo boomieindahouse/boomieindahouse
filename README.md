@@ -1,30 +1,51 @@
-## Hi there I'm Boomie 👋
-<!--- 
-I'm a 4th-year Computer Engineering student at Rajamangala University of Technology Isan. I’m passionate about frontend development and UX/UI design.
---->
-  I'm based in Thailand
-* You can contact me at [prawitsanat@hotmail.com](mailto:prawitsanat@hotmail.com)
+## Hi there, I'm Boomie 👋  
+I'm a 4th-year Computer Engineering student at **Rajamangala University of Technology Isan**, based in Thailand 🇹🇭  
+I’m passionate about **Frontend Development**, **UX/UI Design**, and turning ideas into real products.  
 
-<!--- 
-### Socials
+🌐 Portfolio → [elboomie.vercel.app](https://elboomie.vercel.app)  
+📫 Contact → [prawitsanat@hotmail.com](mailto:prawitsanat@hotmail.com)  
 
-<p align="left"> <a href="https://www.facebook.com/boomieindahouse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/boomieindahouse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/prawitsanat-prapananyosanan-5ab977327/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/boomiebehumble" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
---->
-<!--- 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boomieindahouse&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img align="center" src="https://github.com/boomieindahouse/prawit-portfolio/blob/main/src/assets/img/avt-programming.png?raw=true" alt="Alt Text" style="width: 500px; height: auto;" />
-</div> */
---->
+---
 
-Check my portfolio. [Click Click!](https://elboomie.vercel.app)
-<div style="display: flex; align-items: center;">
-  <img align="center" src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=libre_baskerville&author=Sir+Gareth+Northgate&quote=The+future+is+shaped+by+your+dreams,+so+stop+wasting+your+time+and+go+to+sleep!" alt="Github Readme Daily Quotes" />
-  <!--- 
-  <a align="center" href="https://github.com/kittinan/spotify-github-profile">
-    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31phswnw4vmb4qrxhqzglqcwbr4e&cover_image=true&theme=novatorem&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
-  --->
+### 🛠️ Tech Stack & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boomieindahouse&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Boomie's GitHub Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomieindahouse&layout=compact&theme=radical" alt="Boomie's Top Languages" width="47%" />
 </div>
 
+---
 
+### 📌 Quote of the Day  
+<img src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=libre_baskerville&author=Sir+Gareth+Northgate&quote=The+future+is+shaped+by+your+dreams,+so+stop+wasting+your+time+and+go+to+sleep!" alt="Quote" />
+
+---
+
+### 🔗 Let's Connect
+<p>
+  <a href="https://www.facebook.com/boomieindahouse" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.github.com/boomieindahouse" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prawitsanat-prapananyosanan-5ab977327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/boomiebehumble" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" />
+  </a>
+</p>
