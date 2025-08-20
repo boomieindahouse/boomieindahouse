@@ -2,7 +2,7 @@
 I'm a 4th-year Computer Engineering student at **Rajamangala University of Technology Isan**, based in Thailand 🇹🇭  
 I’m passionate about **Fullstack Development**, **UX/UI Design**, and turning ideas into real products.  
 
-🌐 Portfolio → [elboomie.vercel.app](https://elboomie.vercel.app)  
+🌐 Portfolio → [elboomie.vercel.app](https://elboomie.vercel.app){:target="_blank"}  
 📫 Contact → [prawitsanat@hotmail.com](mailto:pawitsanat@gmail.com)  
 
 ---
@@ -15,8 +15,13 @@ I’m passionate about **Fullstack Development**, **UX/UI Design**, and turning 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
 ---
 
@@ -36,16 +41,16 @@ I’m passionate about **Fullstack Development**, **UX/UI Design**, and turning 
 
 ### 🔗 Let's Connect
 <p>
-  <a href="https://www.facebook.com/boomieindahouse" target="_blank">
+  <a href="https://www.facebook.com/boomieindahouse" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.github.com/boomieindahouse" target="_blank">
+  <a href="https://www.github.com/boomieindahouse" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prawitsanat-prapananyosanan-5ab977327/" target="_blank">
+  <a href="https://www.linkedin.com/in/prawitsanat-prapananyosanan-5ab977327/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.x.com/boomiebehumble" target="_blank">
+  <a href="https://www.x.com/boomiebehumble" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
