@@ -42,14 +42,14 @@ I’m passionate about **Front-end Development**, **UX/UI Design**, and turning 
 </p>
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 
 <div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=boomieindahouse&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Boomie's GitHub Stats" width="47%" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=boomieindahouse&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Boomie's GitHub Stats" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomieindahouse&layout=compact&theme=radical" alt="Boomie's Top Languages" width="47%" />
 </div>
-
+-->
 ---
 
 ### 📌 Quote of the Day  
